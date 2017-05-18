@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Apptimize_hwk2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="state_1">State 1</string>
+    <string name="state_2">State 2</string>
+    <string name="app_name_s2">Apptimize_hwk2</string>
+    <string name="title_home_s2">Domum</string>
+    <string name="title_dashboard_s2">CelerTabula</string>
+    <string name="title_notifications_s2">Certiorem</string>
+</resources>
